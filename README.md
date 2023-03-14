@@ -8,7 +8,7 @@ I am in my final year of Software Development in Atlantic Technological Universi
   <img src="https://img.shields.io/badge/Python-Strong-green?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-Strong-green?style=flat&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/React-Strong-green?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/VBA-Strong-green?style=flat&logo=vba&logoColor=white">
+  <img src="https://img.shields.io/badge/VBA-Strong-green?style=flat&logo=Microsoft-Excel&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-Strong-green?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-Strong-green?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-Strong-green?style=flat&logo=express&logoColor=white">
