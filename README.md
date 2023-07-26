@@ -1,5 +1,5 @@
 ### Hello there, I'm Katelyn 👋
-I am in my final year of Software Development in Atlantic Technological University Galway(ATU), formally know ad Galway-Mayo Institute of Technology(GMIT). I have experience in Javascript, Python, C#, HTML, VBA, MySQL, and MongoDB. I am intressed in learning new technologies and solving complicated problems.
+I have recently finished my degree in Software Development in Atlantic Technological University Galway(ATU), formally know ad Galway-Mayo Institute of Technology(GMIT). I have experience in Javascript, Python, C#, HTML, VBA, MySQL, and MongoDB. I am intressed in learning new technologies and solving complicated problems.
 
 
 ## Skills
