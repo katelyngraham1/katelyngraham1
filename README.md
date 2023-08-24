@@ -4,18 +4,17 @@ I have recently finished my degree in Software Development in Atlantic Technolog
 
 ## Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-green?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-Advanced-green?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-Advanced-green?style=flat&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/React-Advanced-green?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/VBA-Advanced-green?style=flat&logo=Microsoft-Excel&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-Advanced-green?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-Advanced-green?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-orange?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-Intermediate-orange?style=flat&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-Intermediate-orange?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby-Intermediate-orange?style=flat&logo=ruby&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-Intermediate-orange?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-green?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Intermediate-green?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-Intermediate-green?style=flat&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/React-Intermediate-green?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/VBA-Intermediate-green?style=flat&logo=Microsoft-Excel&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-Intermediate-green?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-green?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-Beginner-orange?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-Beginner-orange?style=flat&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-Beginner-orange?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby-Beginner-orange?style=flat&logo=ruby&logoColor=white">
   
 
 </p>
